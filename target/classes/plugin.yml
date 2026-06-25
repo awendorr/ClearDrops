@@ -1,0 +1,12 @@
+name: ClearDrops
+version: '1.0'
+main: com.davud.cleardrops.ClearDrops
+api-version: '1.21'
+authors: [Davud]
+description: A simple plugin to clear dropped items with veto system.
+commands:
+  cleardrops:
+    description: Clears all dropped items on the ground.
+    aliases: [temizle, yeritemizle]
+  rejectclear:
+    description: Rejects a pending clear request.
