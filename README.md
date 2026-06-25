@@ -7,3 +7,7 @@
 - `/rejectclear` : Eklenti otomatik olarak bir temizlik başlatacağı zaman oyunculara uyarı verir. Eğer silinmesini istemediğiniz önemli eşyalarınız yerdeyse, bu komutu yazarak silme işlemini reddedebilir (veto edebilir) ve eşyalarınızın silinmesini engelleyebilirsiniz.
 
 ✅ **Sürüm Uyumluluğu:** Bu eklenti, **Minecraft 1.21.11** sürümünde bizzat test edilmiş ve kusursuz çalıştığı onaylanmıştır.
+
+
+## 📥 İndir
+[Eklentiyi İndirmek İçin Tıklayın (ClearDrops-1.0-SNAPSHOT.jar)](target/ClearDrops-1.0-SNAPSHOT.jar)
